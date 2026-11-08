@@ -1,11 +1,7 @@
-# arastirma-yontemleri-proje
-## UML Diyagramları (Ödev 3)
+## 6. Hafta - Veri Analizi ve Görselleştirme Çalışması
 
-### 1. Use Case Diagram (Kullanım Durumu Diyagramı)
-Kullanıcı ile sistem arasındaki etkileşimleri ve temel kullanım senaryolarını gösterir.
+Bu hafta Google Colab ortamında Python (Pandas, Matplotlib) kullanılarak projemize ait örnek veri analizi gerçekleştirilmiştir.
 
-### 2. Activity Diagram (Etkinlik Diyagramı)
-Verinin sisteme girişinden makine öğrenmesi modeliyle analiz edilip raporlanmasına kadar geçen adım adım iş sürecini temsil eder.
-
-### 3. Class Diagram (Sınıf Diyagramı)
-Sistemde kullanılan Python sınıflarını (User, HealthData, DermatitisMLModel, AnalysisReport) ve aralarındaki ilişkileri gösterir.
+- **Analiz Defteri:** `Hafta6_Seboreik_Dermatit_Analiz.ipynb`
+- **Üretilen Grafikler:** `sonuclar/semptom_stres_grafigi.png`, `sonuclar/uyku_degisimi.png`
+- **Bulgu Özeti:** Stres seviyesindeki artış ve uyku sürelerindeki azalışın seboreik dermatit semptom şiddetini doğrudan tetiklediği verilerle görselleştirilmiştir.
